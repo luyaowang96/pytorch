@@ -7,5 +7,8 @@
 介绍torch.nn内的重要功能函数并实现简单的神经网络（在建）
 
 ## pytorch实现简单的计算图
-分别用numpy和pytorch实现梯度下降算法、简单线性回归的参数估计、简单的神经网络
+分别用numpy和pytorch实现梯度下降算法、简单线性回归的参数估计、简单的神经网络  
+torch.autograd.Function  支持自定义更新导数
+torch.nn.module 支持创建自定义模型
+
 
